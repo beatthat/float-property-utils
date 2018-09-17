@@ -1,7 +1,7 @@
 {
   "name": "float-property-utils",
   "scope": "beatthat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "property-interface components for working with text.",
   "main": "index.js",
   "repository": {
